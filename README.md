@@ -4,7 +4,7 @@
 
 >Trilha Explorer
 
-Projeto constrído do Evento Nest Level Week da Rocketseat
+Projeto construído no Evento Next Level Week da Rocketseat :rocket:
 
 [:link: Clique aqui para acessar](https://maxwellcaue.github.io/NLWeSports/) 
 
